@@ -1,1 +1,3 @@
-# AID1904  学习
+# AID1904  学
+
+![chiji](pop.jpg)
